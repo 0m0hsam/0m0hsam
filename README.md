@@ -30,4 +30,4 @@ development and product design
 
 ## Let's Connect!
 
-- Here is my [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/incrediblesam) profile
+- Here is my <a href="linkedin.com/in/incrediblesam"> [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]() </a> profile
